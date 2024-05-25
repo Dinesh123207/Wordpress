@@ -1,1 +1,1 @@
-<h1>greetings from footer! </h1>
+<h1>greetings from header! </h1>

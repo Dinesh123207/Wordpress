@@ -1,4 +1,4 @@
-<?php
+
 
 
 <!-- <?php
@@ -28,6 +28,7 @@ while($count< 101){
 ?> -->
 
 <?php
+get_header();
 while(have_posts()){
     the_post();?>
 

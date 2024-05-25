@@ -10,7 +10,7 @@ greet('vickey','purple');
 <h2> <?php  bloginfo( 'name' ); ?> </h2>
 <p> <?php   bloginfo( 'description' ); ?> </p> -->
 
-<?php
+<!-- <?php
 
 $names = array('brad', 'john', 'kajal','shruti');
 
@@ -22,4 +22,6 @@ while($count< 101){
     echo "<li> $count <li>";
     $count++;
 }
-?>
+?> -->
+
+

@@ -1,4 +1,5 @@
-<h1> this is the header area</h1>
+<?php
+
 
 <!-- <?php
 function greet($name,$color){
